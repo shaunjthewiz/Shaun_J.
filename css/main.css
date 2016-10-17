@@ -37,7 +37,10 @@ background-position: center -238px;
 .features {
     padding: 5% 0;
 }
-
+.col-sm-4
+{
+  text-align: center;
+}
 .features p {
     font-family: 'Muli' 'sans-serif';
     text-align: center;
